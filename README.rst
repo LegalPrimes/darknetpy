@@ -2,7 +2,7 @@
 Darknetpy
 =========
 
-darknetpy is a simple binding for darknet's yolo detector.
+darknetpy is a simple binding for darknet's yolo (V2 only) detector.
 
 Installation
 ============
